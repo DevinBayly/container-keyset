@@ -1,0 +1,5 @@
+name       : beagle
+version    : 2.3.1
+homepage   : http://faculty.washington.edu/browning/beagle/beagle.html
+description: |
+    Beagle is a software package for phasing genotypes and for imputing ungenotyped markers.

@@ -1,0 +1,4 @@
+QmRTc5kpWNck83TwRVZgd1pqnFSLZPrbE47ESEvb6TrVfg  beagle-v2-3.tar.gz
+QmTgzYSpjHw445QfPwahFrQEjhUenqPQaEpxgERiQtbVqd  beagle-v2-1.tar.gz
+QmTdtkVaebrZf3qDuYq49LAyYPEcRjHgj64KBQC15obf1h  beagle-v1-1.tar.gz
+QmTPRCjcvF8QaCmELq1Lgj7qSDf6RQ5FQEDxr2ESHST3nH  beagle-v1.tar.gz

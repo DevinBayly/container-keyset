@@ -4,4 +4,4 @@ homepage   : https://github.com/beagle-dev/beagle-lib
 description: |
     BEAGLE is a high-performance library that can perform the core calculations at the heart of most Bayesian and Maximum Likelihood phylogenetics packages. It can make use of highly-parallel processors such as those in graphics cards (GPUs) found in many PCs.
 extends    :
-    - beast
+    - beast2

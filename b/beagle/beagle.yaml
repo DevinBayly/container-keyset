@@ -1,5 +1,11 @@
-name       : beagle
-version    : 2.3.1
-homepage   : http://faculty.washington.edu/browning/beagle/beagle.html
+name       : beast-with-beagle
+version    :
+    - beast  : 2.6.3
+    - beagle : 3.2.1
+homepage   : 
+    - beast  : http://beast2.org/
+    - beagle : https://github.com/beagle-dev/beagle-lib
 description: |
-    Beagle is a software package for phasing genotypes and for imputing ungenotyped markers.
+    BEAGLE is a high-performance library that can perform the core calculations at the heart of most Bayesian and Maximum Likelihood phylogenetics packages. It can make use of highly-parallel processors such as those in graphics cards (GPUs) found in many PCs.
+extends    :
+    - beast

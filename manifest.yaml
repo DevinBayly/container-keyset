@@ -1,0 +1,14 @@
+beast2:
+- name: beast2
+  relative_path: ./b/beast2/beast2.ks
+  web_url: https://raw.githubusercontent.com/DevinBayly/container-keyset/main/b/beast2/beast2.ks
+- name: beast2
+  relative_path: ./b/beast2/beast2.yaml
+  web_url: https://raw.githubusercontent.com/DevinBayly/container-keyset/main/b/beast2/beast2.yaml
+beast2-with-beagle:
+- name: beast2-with-beagle
+  relative_path: ./b/beast2-with-beagle/beast-wth-beagle.ks
+  web_url: https://raw.githubusercontent.com/DevinBayly/container-keyset/main/b/beast2-with-beagle/beast-wth-beagle.ks
+- name: beast2-with-beagle
+  relative_path: ./b/beast2-with-beagle/beast-wth-beagle.yaml
+  web_url: https://raw.githubusercontent.com/DevinBayly/container-keyset/main/b/beast2-with-beagle/beast-wth-beagle.yaml
